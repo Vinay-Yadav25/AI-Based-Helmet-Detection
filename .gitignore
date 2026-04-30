@@ -1,0 +1,26 @@
+# Dataset
+dataset/
+data/
+
+# YOLO outputs
+runs/
+
+# Model weights
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Images
+*.jpg
+*.png
