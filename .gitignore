@@ -2,12 +2,12 @@
 dataset/
 data/
 
-# YOLO outputs
-runs/
+# # YOLO outputs
+# runs/
 
-# Model weights
-*.pt
-*.pth
+# # Model weights
+# *.pt
+# *.pth
 
 # Python cache
 __pycache__/

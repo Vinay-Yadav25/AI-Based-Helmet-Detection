@@ -1,0 +1,8 @@
+{
+  "precision": 0.9293304751462117,
+  "recall": 0.9136076541832236,
+  "map50": 0.9641528900638701,
+  "map50_95": 0.6743636558301662,
+  "best_model_path": "E:\\Bunny\\major_project\\helmet_detection_VS\\helmet_detection\\runs\\detect\\models\\helmet_detector_resume_safe\\weights\\best.pt",
+  "results_dir": "E:\\Bunny\\major_project\\helmet_detection_VS\\helmet_detection\\runs\\detect\\models\\helmet_detector_resume_safe"
+}
